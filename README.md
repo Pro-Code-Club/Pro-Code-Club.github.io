@@ -16,6 +16,6 @@
 ## Design
 - Multiple Categories/pages
 - Drop down navigation bar for the pages on website
-- Bakcground with rgb glass background
+- Background with rgb glass background
 - Images
   - Slide down when hover
